@@ -1,1 +1,1 @@
-# AIML_Task3
+This project explores a House Pricing dataset to understand the data and find useful patterns. It includes basic statistics and visualizations like histograms, boxplots, and heatmaps to show relationships between features such as price, area, number of rooms, and location. The analysis is done using Python with pandas, numpy, matplotlib, and seaborn. 
